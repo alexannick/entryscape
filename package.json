@@ -15,7 +15,7 @@
     "bootstrap-material-design": "^4.1.1",
     "chart.js": "^2.8.0",
     "core-js": "^3.1.4",
-    "dijit": "^1.14.2",
+    "dijit": "^1.15.4",
     "dojo": "^1.14.2",
     "entrystore-js": "https://bitbucket.org/metasolutions/entrystore.js.git#4.7.3",
     "esi18n": "https://bitbucket.org/metasolutions/esi18n.git#master",
