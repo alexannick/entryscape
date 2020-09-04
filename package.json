@@ -33,7 +33,7 @@
     "lightbox2": "^2.10.0",
     "lodash-es": "^4.17.11",
     "md5": "^2.2.1",
-    "mithril": "^1.1.6",
+    "mithril": "^1.1.7",
     "moment": "^2.22.2",
     "popper.js": "^1.12.9",
     "pubsub-js": "^1.7.0",
